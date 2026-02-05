@@ -1,0 +1,18 @@
+ // cout<<"Iterative Inorder :";
+    // vector<int>ans = Iterative_Inorder(root);
+    // print(ans);
+    // cout<<"Inorder : ";
+    // inorder(root);
+    // cout<<endl;
+    // cout<<"Iterative Preorder :";
+    // ans = Iterative_Preorder(root);
+    // print(ans);
+    // cout<<"preorder : ";
+    // preorder(root);
+    // cout<<endl;
+    // cout<<"Iterative Postorder : ";
+    // ans = Iterative_Postorder(root);
+    // print(ans);
+    // cout<<"postorder : ";
+    // postorder(root);
+    // cout<<endl;
